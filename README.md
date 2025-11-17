@@ -26,7 +26,7 @@ A clean, minimal web-based typing speed test application that measures how fast 
 
 ## 📊 Metrics Calculated
 
-- **WPM (Words Per Minute)** - Number of words typed per minute
+- **WPM (Words Per Minute)** - Number of words typed per minute or in a minute
 - **Accuracy** - Percentage of correctly typed characters
 - **Correct Words** - Words typed without errors
 
